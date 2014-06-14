@@ -1,0 +1,9 @@
+C:\Users\Been\Documents\Visual Studio 2012\Projects\BankXmlParser\BankXmlParser\bin\Debug\BankXmlParser.exe.config
+C:\Users\Been\Documents\Visual Studio 2012\Projects\BankXmlParser\BankXmlParser\bin\Debug\BankXmlParser.exe
+C:\Users\Been\Documents\Visual Studio 2012\Projects\BankXmlParser\BankXmlParser\bin\Debug\BankXmlParser.pdb
+C:\Users\Been\Documents\Visual Studio 2012\Projects\BankXmlParser\BankXmlParser\obj\Debug\BankXmlParser.csprojResolveAssemblyReference.cache
+C:\Users\Been\Documents\Visual Studio 2012\Projects\BankXmlParser\BankXmlParser\obj\Debug\BankXmlParser.Properties.Resources.resources
+C:\Users\Been\Documents\Visual Studio 2012\Projects\BankXmlParser\BankXmlParser\obj\Debug\BankXmlParser.csproj.GenerateResource.Cache
+C:\Users\Been\Documents\Visual Studio 2012\Projects\BankXmlParser\BankXmlParser\obj\Debug\BankXmlParser.exe
+C:\Users\Been\Documents\Visual Studio 2012\Projects\BankXmlParser\BankXmlParser\obj\Debug\BankXmlParser.pdb
+C:\Users\Been\Documents\Visual Studio 2012\Projects\BankXmlParser\BankXmlParser\obj\Debug\BankXmlParser.FileSelector.resources
